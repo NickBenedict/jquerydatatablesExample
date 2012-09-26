@@ -1,0 +1,89 @@
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\DataTable_Dot_NET.dll
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\DataTable_Dot_NET.pdb
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\Antlr3.Runtime.dll
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.AspNet.dll
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.Core.dll
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.OAuth.dll
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.OpenId.dll
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\EntityFramework.dll
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\Microsoft.Web.Infrastructure.dll
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\System.Web.Optimization.dll
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\System.Web.Providers.dll
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\WebGrease.dll
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\EntityFramework.xml
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.Core.xml
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.OAuth.xml
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.OpenId.xml
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.AspNet.xml
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\obj\Debug\DataTable_Dot_NET.csprojResolveAssemblyReference.cache
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\obj\Debug\DataTable_Dot_NET.dll
+c:\users\nbenedict.paramax\documents\visual studio 2012\Projects\DataTable_Dot_NET\DataTable_Dot_NET\obj\Debug\DataTable_Dot_NET.pdb
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\obj\Debug\DataTable_Dot_NET.dll
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\obj\Debug\DataTable_Dot_NET.pdb
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\DataTable_Dot_NET.dll
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\DataTable_Dot_NET.pdb
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\Antlr3.Runtime.dll
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\AspNet.ScriptManager.jQuery.dll
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.AspNet.dll
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.Core.dll
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.OAuth.dll
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.OpenId.dll
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\EntityFramework.dll
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\Microsoft.ScriptManager.WebForms.dll
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\Microsoft.Web.Infrastructure.dll
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\System.Web.Optimization.dll
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\System.Web.Providers.dll
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\WebGrease.dll
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\EntityFramework.xml
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.Core.xml
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.OAuth.xml
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.OpenId.xml
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\CWD\DataTable_Dot_NET\DataTable_Dot_NET\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\DataTable_Dot_NET.dll
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\DataTable_Dot_NET.pdb
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\Antlr3.Runtime.dll
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\DotNetOpenAuth.Core.dll
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\EntityFramework.dll
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\System.Web.Optimization.dll
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\System.Web.Providers.dll
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\WebGrease.dll
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\EntityFramework.xml
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\DotNetOpenAuth.Core.xml
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\obj\Debug\DataTable_Dot_NET.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\obj\Debug\DataTable_Dot_NET.dll
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2012\DataTable_Dot_NET\obj\Debug\DataTable_Dot_NET.pdb

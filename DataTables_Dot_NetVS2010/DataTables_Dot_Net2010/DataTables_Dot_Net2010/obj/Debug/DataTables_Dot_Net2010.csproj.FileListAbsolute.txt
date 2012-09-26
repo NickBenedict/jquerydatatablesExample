@@ -1,0 +1,4 @@
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2010\DataTables_Dot_Net2010\DataTables_Dot_Net2010\bin\DataTables_Dot_Net2010.dll
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2010\DataTables_Dot_Net2010\DataTables_Dot_Net2010\bin\DataTables_Dot_Net2010.pdb
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2010\DataTables_Dot_Net2010\DataTables_Dot_Net2010\obj\Debug\DataTables_Dot_Net2010.dll
+C:\Users\Nick\Documents\GitHub\jquerydatatablesExample\DataTables_Dot_NetVS2010\DataTables_Dot_Net2010\DataTables_Dot_Net2010\obj\Debug\DataTables_Dot_Net2010.pdb
